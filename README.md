@@ -49,8 +49,7 @@ Git • GitHub • Linux • Figma • Blender
 
 ---
 
-## 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=aziraxariza&show_icons=true&theme=tokyonight)
+## 📊 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aziraxariza&layout=compact)
 
