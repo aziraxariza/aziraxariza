@@ -47,7 +47,7 @@ Git • GitHub • Linux • Figma • Blender
 - 3D Roblox game promoting water conservation  
 - Designed gameplay for awareness + engagement
 
-- and many more!!
+## and many more!!
 
 ---
 
