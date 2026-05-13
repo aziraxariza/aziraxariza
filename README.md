@@ -45,7 +45,9 @@ Git • GitHub • Linux • Figma • Blender
 
 ### 💧 Watrons  
 - 3D Roblox game promoting water conservation  
-- Designed gameplay for awareness + engagement  
+- Designed gameplay for awareness + engagement
+
+- and many more!!
 
 ---
 
