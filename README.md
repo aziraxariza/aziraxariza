@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ariza%20Wasim&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=aziraxariza">
-    <img src="https://komarev.com/ghpvc/?username=aziraxariza&label=Profile%20views&color=00FFFF&style=flat-square" alt="aziraxariza's profile views" />
-  </a>
+  <img src="[GIFE](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9hOG56dmp2dGcyazFhOXRxbGllbjFkOHpmdHhmb290d2NxZ214biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z8lO8vYWxfH0ffp3NT/giphy.gif)" width="250"/>
 </p>
 
 ## 📌 About Me
@@ -120,6 +118,6 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
 
 
