@@ -1,73 +1,125 @@
-# Hi, I'm Ariza Wasim 👋  
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ariza%20Wasim&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-🎓 B.Tech IT @ IGDTUW  
-💻 Full Stack Developer | AI/ML Enthusiast | Content & Design
-🏆 3× Hackathon Winner | 8× Finalist  
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=aziraxariza">
+    <img src="https://komarev.com/ghpvc/?username=aziraxariza&label=Profile%20views&color=00FFFF&style=flat-square" alt="aziraxariza's profile views" />
+  </a>
+</p>
 
----
+## 📌 About Me
+- 🌱 Currently learning AI/ML, Deep Learning & scalable Web Development
+- 🚀 Enjoy nuilding impactful projects
+- 🤝 Open to collaborating on AI, Web Dev & open-source projects
+- 🐱 Cat lover who codes better with cats around
+- 🏆 3x Hackathon Winner | 8x Finalist in national-level competitions
+- 💻 Exploring Full Stack Development with React, Node.js & modern tools
+- 📚 Practicing DSA in C++ and strengthening problem-solving skills
+- 🎯 Passionate about solving real-world problems through technology
+- ✨ Always learning, building and growing in tech
 
-## 🚀 About Me  
-- 🔬 Research Intern at DRDO  
-- 🤖 AI/Deep Learning Intern at TaskVeda 
-- 🎨 Passionate about real world problem solving + building impactful tech  
 
----
+## 🧠 My Focus Areas
+- 🚀 AI/ML, Deep Learning & Research
+- 🌐 Full Stack Web Development
+- 📊 Data Structures & Algorithms in C++
+- 🤖 Generative AI & RAG Pipelines
+- ☁️ Exploring Cloud, Docker & Kubernetes
+- 🎨 Design & Art Enthusiast
+- 🔬 Building real-world tech solutions through research & innovation
 
-## 🛠️ Tech Stack  
 
-**Languages:**  
-C++ • Python • JavaScript • SQL • R  
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/aziraxariza">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aziraxariza&cache_seconds=7200&layout=compact&theme=synthwave&border_radius=10" alt="aziraxariza's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=aziraxariza&theme=synthwave&hide_border=true&cache_seconds=86400" alt="aziraxariza's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=aziraxariza&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ariza Wasim's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aziraxariza&theme=synthwave&radius=10" alt="aziraxariza's Activity Graph" />
+</p>
 
-**AI & Data:**  
-TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy  
 
-**Development:**  
-React • React Native • Firebase • MySQL  
+## 🛠️ Languages & Tools
 
-**Tools:**  
-Git • GitHub • Linux • Figma • Blender  
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 
----
+</p>
 
-## 🔥 Featured Projects  
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
 
-### 🧠 Graphire — AI Graph Intelligence Platform  
-- Built TigerGraph backend for relationship analysis  
-- Designed system for user similarity detection  
+</p>
 
-### 🗺️ IGDTUW 3D Map  
-- Created 3D campus models using Blender  
-- Worked on frontend integration  
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
 
-### ✋ ASL Air Canvas  
-- Computer vision project for air drawing for hearing and speach impaired kids 
-- Integrated hand tracking + gesture recognition  
+</p>
 
-### 💧 Watrons  
-- 3D Roblox game promoting water conservation  
-- Designed gameplay for awareness + engagement
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
 
-#### and many more!!
+</p>
 
----
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" />
 
-## 📊 Top Languages
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aziraxariza&layout=compact)
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
----
+</p>
 
-## 🏆 Achievements  
-- 🥇 3x Wins  
-- 🚀 Smart India Hackathon 2024 — Semifinalist  
+<p align="center">
+  <a href="https://github.com/aziraxariza">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aziraxariza&langs_count=8&layout=compact&theme=synthwave&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
----
+![Top language](https://stats.pphat.top/languages?username=aziraxariza)
+<br/>
 
-## 📫 Connect With Me  
-- 💌 arizawasim@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/ariza-wasim-98652a2ab/ 
-- 🌐 GitHub: https://github.com/aziraxariza  
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ariza-wasim-98652a2ab/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;
+  <a href="https://x.com/arizawasim">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>&nbsp;
+  <a href="mailto:arizawasim@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
-⚡ I mix design + development + creativity to build meaningful tech 🚀💫
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+
