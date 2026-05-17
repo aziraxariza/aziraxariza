@@ -6,7 +6,7 @@
 
 ## 📌 About Me
 - 🌱 Currently learning AI/ML, Deep Learning & scalable Web Development
-- 🚀 Enjoy nuilding impactful projects
+- 🚀 Enjoy building impactful projects
 - 🤝 Open to collaborating on AI, Web Dev & open-source projects
 - 🐱 Cat lover who codes better with cats around
 - 🏆 3x Hackathon Winner | 8x Finalist in national-level competitions
