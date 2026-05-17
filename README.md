@@ -23,7 +23,7 @@
 - 🤖 Generative AI & RAG Pipelines
 - ☁️ Exploring Cloud, Docker & Kubernetes
 - 🎨 Design & Art Enthusiast
-- 🔬 Building real-world tech solutions through research & innovation
+- 🔬 Building real-world tech solutions through research & innovation!
 
 
 ## 📊 GitHub Stats & Trophies
