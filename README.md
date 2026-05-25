@@ -13,7 +13,7 @@
 - 💻 Exploring Full Stack Development with React, Node.js & modern tools
 - 📚 Practicing DSA in C++ and strengthening problem-solving skills
 - 🎯 Passionate about solving real-world problems through technology
-- ✨ Always learning, building and growing in tech ab
+- ✨ Always learning, building and growing in tech abc
 
 
 ## 🧠 My Focus Areas
