@@ -26,16 +26,7 @@
 - 🔬 Building real-world tech solutions through research & innovation 
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/aziraxariza">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aziraxariza&cache_seconds=7200&layout=compact&theme=synthwave&border_radius=10" alt="aziraxariza's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=aziraxariza&theme=synthwave&hide_border=true&cache_seconds=86400" alt="aziraxariza's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=aziraxariza&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ariza Wasim's GitHub Trophies" />
-</p>
+## 📊 GitHub Stats 
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aziraxariza&theme=synthwave&radius=10" alt="aziraxariza's Activity Graph" />
 </p>
