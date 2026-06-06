@@ -18,7 +18,7 @@
 
 ## 🧠 My Focus Areas
 - 🚀 AI/ML, Deep Learning & Research
-- 🌐 Full Stack Web Development
+- 🌐 Full Stack Web Development 
 - 📊 Data Structures & Algorithms in C++
 - 🤖 Generative AI & RAG Pipelines
 - ☁️ Exploring Cloud, Docker & Kubernetes
