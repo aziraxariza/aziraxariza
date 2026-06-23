@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ariza%20Wasim&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/> 
-   knnnnmeee
+   
 <p align="center">  
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9hOG56dmp2dGcyazFhOXRxbGllbjFkOHpmdHhmb290d2NxZ214biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z8lO8vYWxfH0ffp3NT/giphy.gif" width="300"/>
 </p>
