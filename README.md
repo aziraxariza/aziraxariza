@@ -2,7 +2,7 @@
    
 <p align="center">  
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9hOG56dmp2dGcyazFhOXRxbGllbjFkOHpmdHhmb290d2NxZ214biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z8lO8vYWxfH0ffp3NT/giphy.gif" width="300"/>
-</p>
+</p> 
 
 ## 📌 About Me
 - 🌱 Currently learning AI/ML, Deep Learning & scalable Web Development
