@@ -114,7 +114,7 @@ const currentGoals = {
 
 <a href="https://www.linkedin.com/in/ariza-wasim-98652a2ab/"><img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://x.com/arizawasim"><img src="https://img.shields.io/badge/X-FF8FAB?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:arizawasim@gmail.com"><img src="https://img.shields.io/badge/Gmail-4FD1C5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:arizaxwasim@gmail.com"><img src="https://img.shields.io/badge/Gmail-4FD1C5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
