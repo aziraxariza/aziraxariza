@@ -25,7 +25,7 @@ pursuing: bachelor's in information technology
 interests: ai/ml · deep learning · full-stack dev · research
 building: rag pipelines, scalable web apps, real-world tools
 sidekicks: two very judgmental cats, supervising every commit
-and : perpetually learning, perpetually overstimulated
+and: perpetually learning, perpetually overstimulated
 ```
 
 
