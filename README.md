@@ -96,6 +96,20 @@ const currentGoals = {
 
 <div align="center">
 
+### ✿ currently vibing ✿
+
+*the soundtrack to whatever bug i'm currently negotiating with*
+
+[![Spotify](https://img.shields.io/badge/Baby%20Blue%20·%20Badfinger-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1A1325)](https://open.spotify.com/track/6S3JlDAGk3uu3NtZbPnuhS)
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNvOW10aGlzbjFlamJ4dTJsMmEwbmp6ZW41OGpsMXhjbnhwZ3VqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OebVY5vELd4ZeGMYru/giphy.gif" width="260"/>
+
+</div>
+
+---
+
+<div align="center">
+
 ### ✿ let's connect ✿
 
 <a href="https://www.linkedin.com/in/ariza-wasim-98652a2ab/"><img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -115,7 +129,3 @@ const currentGoals = {
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&color=0:1A1325,50:A78BFA,100:FF8FAB"/>
 
 </div>
-
-
-
-
