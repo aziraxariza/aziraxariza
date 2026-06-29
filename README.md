@@ -64,7 +64,7 @@ and: perpetually learning, perpetually overstimulated
 <br/>
 ![Node.js](https://img.shields.io/badge/node.js-FF8FAB.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-A78BFA.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-4FD1C5.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**AI & ML**
+**ai & ml**
 <br/>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF8FAB.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-A78BFA.svg?style=for-the-badge&logo=pytorch&logoColor=white)
