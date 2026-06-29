@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=FF8FAB&center=true&vCenter=true&width=600&lines=ai%2Fml+engineer+%26+researcher;full-stack+web+developer;3x+hackathon+winner+%7C+genai+explorer;powered+by+curiosity+and+chai)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=FF8FAB&center=true&vCenter=true&width=600&lines=ai%2Fml+engineer+%26+researcher;full-stack+web+developer;3x+hackathon+winner+%7C+genai+explorer;powered+by+curiosity+and+stimuli)
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZkZGsxdmt3Y21yY3d0MHg0aWIxdW8xa29tZ2tnMHBsN29zaHVtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cOSbH8NoUFt9MXbuie/giphy.gif" width="280"/>
 
