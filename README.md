@@ -85,7 +85,7 @@ and: perpetually learning, perpetually overstimulated
 
 <div align="center">
 
-### ✿ also i like songs ✿
+### ✿ also i like music ✿
 
 *the soundtrack to whatever bug i'm currently negotiating with*
 
