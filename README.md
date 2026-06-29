@@ -21,31 +21,13 @@
 </div>
 
 ```
-🌸 studying: computer science & engineering
-💜 focus: ai/ml · deep learning · full-stack dev
-🍃 building: rag pipelines, scalable web apps, real-world tools
-🐱 sidekick: one very judgmental cat, supervising every commit
-🏆 record: 3x hackathon winner, 8x national finalist
-✨ status: perpetually learning, perpetually caffeinated
+studying: computer science & engineering
+interests: ai/ml · deep learning · full-stack dev
+building: rag pipelines, scalable web apps, real-world tools
+sidekicks: two very judgmental cats, supervising every commit
+and : perpetually learning, perpetually overstimulated
 ```
 
----
-
-<div align="center">
-
-### ✿ manifesting ✿
-
-</div>
-
-```javascript
-const currentGoals = {
-  learning: ["deep learning", "cloud & kubernetes", "system design"],
-  building: ["generative ai + rag pipelines", "full-stack web apps"],
-  seeking: ["internships", "open-source collabs", "research opportunities"]
-}
-
-// TODO: ship something that makes people go "whoa" 🌸
-```
 
 ---
 
@@ -96,13 +78,13 @@ const currentGoals = {
 
 <div align="center">
 
-### ✿ currently vibing ✿
+### ✿ also i like songs ✿
 
 *the soundtrack to whatever bug i'm currently negotiating with*
 
 [![Spotify](https://img.shields.io/badge/Baby%20Blue%20·%20Badfinger-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1A1325)](https://open.spotify.com/track/6S3JlDAGk3uu3NtZbPnuhS)
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNvOW10aGlzbjFlamJ4dTJsMmEwbmp6ZW41OGpsMXhjbnhwZ3VqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OebVY5vELd4ZeGMYru/giphy.gif" width="260"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBxOGxweWw5bzN1MjdtMng4MjlucGJ3MHA4cHY2Ym53YjBqN21lbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cuZIeohJs3ZLRHWItB/giphy.gif" width="260"/>
 
 </div>
 
@@ -124,7 +106,7 @@ const currentGoals = {
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ296NHhka2R5OWZubWtsNmtvZHh4djJpOHVicW9tbXhiNmVpZGI2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IydrYaxclPhGG76/giphy.gif" width="260"/>
 
-> *sometimes the code compiles, sometimes the cat just watches it fail* 🐱
+> *and yes this is me* 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&color=0:1A1325,50:A78BFA,100:FF8FAB"/>
 
