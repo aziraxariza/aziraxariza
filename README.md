@@ -64,6 +64,13 @@ and: perpetually learning, perpetually overstimulated
 <br/>
 ![Node.js](https://img.shields.io/badge/node.js-FF8FAB.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-A78BFA.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-4FD1C5.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+**AI & ML**
+<br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF8FAB.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-A78BFA.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-4FD1C5.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F9A8D4.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+
 **devops & cloud**
 <br/>
 ![Docker](https://img.shields.io/badge/docker-FF8FAB.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-A78BFA.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-4FD1C5.svg?style=for-the-badge&logo=jenkins&logoColor=white)
