@@ -8,7 +8,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=FF8FAB&center=true&vCenter=true&width=600&lines=ai%2Fml+engineer+%26+researcher;full-stack+web+developer;3x+hackathon+winner+%7C+genai+explorer;powered+by+curiosity+and+chai)
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9hOG56dmp2dGcyazFhOXRxbGllbjFkOHpmdHhmb290d2NxZ214biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z8lO8vYWxfH0ffp3NT/giphy.gif" width="280"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZkZGsxdmt3Y21yY3d0MHg0aWIxdW8xa29tZ2tnMHBsN29zaHVtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cOSbH8NoUFt9MXbuie/giphy.gif" width="280"/>
 
 </div>
 
@@ -106,7 +106,7 @@ and : perpetually learning, perpetually overstimulated
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ296NHhka2R5OWZubWtsNmtvZHh4djJpOHVicW9tbXhiNmVpZGI2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IydrYaxclPhGG76/giphy.gif" width="260"/>
 
-> *and yes this is me* 
+> *thanks :)* 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&color=0:1A1325,50:A78BFA,100:FF8FAB"/>
 
