@@ -49,7 +49,7 @@ and: perpetually learning, perpetually overstimulated
 
 ---
 
-<div align="center">
+<div>
 
 ### ✿ tech stack ✿
 
@@ -83,16 +83,6 @@ and: perpetually learning, perpetually overstimulated
 </div>
 
 ---
-
-<div align="center">
-
-### ✿ also i like music ✿
-
-*the soundtrack to whatever bug i'm currently negotiating with*
-
-[![Spotify](https://img.shields.io/badge/Baby%20Blue%20·%20Badfinger-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1A1325)](https://open.spotify.com/track/6S3JlDAGk3uu3NtZbPnuhS)
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBxOGxweWw5bzN1MjdtMng4MjlucGJ3MHA4cHY2Ym53YjBqN21lbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cuZIeohJs3ZLRHWItB/giphy.gif" width="260"/>
 
 </div>
 
