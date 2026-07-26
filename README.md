@@ -73,10 +73,6 @@ figma · vite
 
 ---
 
-<div align="center">
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ296NHhka2R5OWZubWtsNmtvZHh4djJpOHVicW9tbXhiNmVpZGI2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IydrYaxclPhGG76/giphy.gif" width="260"/>
-
 > *thanks :)*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&color=0:1A1325,50:A78BFA,100:FF8FAB"/>
