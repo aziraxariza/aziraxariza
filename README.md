@@ -72,8 +72,9 @@ figma · vite
 </div>
 
 ---
-
-> *thanks :)*
+<div align="center">
+  
+ *thanks :)*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&color=0:1A1325,50:A78BFA,100:FF8FAB"/>
 
