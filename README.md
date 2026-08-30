@@ -85,24 +85,6 @@ I like understanding systems from the inside out — not just making things work
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
----
-
-## What I'm Building
-
-```text
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│   AI Systems        →   RAG · LLMs · Graphs     │
-│   Backend           →   APIs · Architecture     │
-│   Full-Stack        →   Products · Interfaces   │
-│   ML                →   Vision · NLP            │
-│                                                 │
-└─────────────────────────────────────────────────┘
-```
-
-I enjoy turning ideas into **working systems**, experimenting with new technologies and going deep into the engineering behind them.
-
----
 
 <div align="center">
 
