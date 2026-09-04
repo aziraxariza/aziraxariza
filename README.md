@@ -38,8 +38,6 @@ Currently exploring:
 *  **Computer Vision & Generative AI**
 *  **Full-stack applications**
 
-I like understanding systems from the inside out — not just making things work, but understanding **why they work**.
-
 ---
 
 ## Tech Stack
