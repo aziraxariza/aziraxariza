@@ -13,38 +13,6 @@
 I’m an **AI/ML engineer and full-stack developer** interested in the space where **intelligent systems, backend engineering, and product design** meet.
 
 I enjoy taking ideas from *“what if?”* to something real, useful and shippable.
-<div align="center"> 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Currently exploring
-
-- LLM systems & RAG pipelines
-
-- Knowledge graphs & graph databases
-
-- Backend architecture & APIs
-
-</td>
-<td width="50%" valign="top">
-
-### Also into
-
-- Computer Vision & Generative AI
-
-- Full-stack applications
-
-- 3D & interactive experiences
-
-</td>
-</tr>
-</table>
-</td>
-</td>
-
-
-</div>
 
 ## ✦ Tech Stack
 
