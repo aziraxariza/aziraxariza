@@ -2,7 +2,9 @@
 
 <a href="https://www.linkedin.com/in/ariza-wasim-98652a2ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/arizawasim"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a> <a href="mailto:arizaxwasim@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-### *Building intelligent systems that actually ship.*
+<p align="center">
+  <strong><em>Building intelligent systems that actually ship.</em></strong>
+</p>
 
 </div>
 
