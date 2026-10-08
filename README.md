@@ -2,10 +2,6 @@
 
 <a href="https://www.linkedin.com/in/ariza-wasim-98652a2ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/arizawasim"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a> <a href="mailto:arizaxwasim@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-<p align="center">
-  <strong><em>Building intelligent systems that actually ship.</em></strong>
-</p>
-
 </div>
 
 ---
@@ -64,6 +60,3 @@ I enjoy taking ideas from *“what if?”* to something real, useful and shippab
 <img src="https://komarev.com/ghpvc/?username=arizawasim&label=PROFILE%20VIEWS&color=ff2d95&style=flat-square" alt="Profile views" />
   
 ### `CODE → LEARN → BUILD → REPEAT`
-
-<sub><b>stay curious · make it useful · ship it anyway</b></sub>
-
